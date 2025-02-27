@@ -1,0 +1,3 @@
+cd C:\Users\Тати\OneDrive\Desktop\BOT
+.\venv\Scripts\activate
+python testinghuestingblyat_bot.py
